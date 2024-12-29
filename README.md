@@ -46,7 +46,15 @@ pip install mlflow
 #### 6. Run mlflow
 
 ```bash
-mlflow server --host 127.0.0.1 --port 8080
+mlflow server --host 127.0.0.1 --port 8000
+```
+
+#### 7. Check if every think works well
+
+> Request from your browser the below @
+
+```bash
+http://localhost:8000
 ```
 
 ### References
