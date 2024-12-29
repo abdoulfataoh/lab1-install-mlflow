@@ -50,7 +50,7 @@ pip install mlflow
 mlflow server --host 127.0.0.1 --port 8000
 ```
 
-#### 7. Check if every think works well
+#### 7. Check if everything works well
 
 > Request from your browser the below @
 
