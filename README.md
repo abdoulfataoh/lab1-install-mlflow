@@ -61,3 +61,5 @@ http://localhost:8000
 ### References
 [[1] https://mlflow.org/docs/latest/getting-started/intro-quickstart/index.html ](https://mlflow.org/docs/latest/getting-started/intro-quickstart/index.html)
 
+[[2] Lab2 : Configure mlflow for machine learning experiments tracking](https://github.com/abdoulfataoh/lab2-configure-mlflow-for-exp-tracking)
+
