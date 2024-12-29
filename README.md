@@ -5,7 +5,7 @@ This lab aims to guide you through setting up a Python virtual environment and i
 #### 1. Create python project
 
 ```bash
-mkdir mlflow-server && mv mlflow-server  # to create project && move to the the project
+mkdir mlflow-server && cd mlflow-server  # to create project && move to the the project
 
 ```
 
